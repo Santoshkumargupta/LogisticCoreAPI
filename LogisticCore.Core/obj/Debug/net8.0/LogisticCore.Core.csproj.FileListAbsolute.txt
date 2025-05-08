@@ -1,0 +1,12 @@
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Core\bin\Debug\net8.0\LogisticCore.Core.deps.json
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Core\bin\Debug\net8.0\LogisticCore.Core.dll
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Core\bin\Debug\net8.0\LogisticCore.Core.pdb
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Core\obj\Debug\net8.0\LogisticCore.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Core\obj\Debug\net8.0\LogisticCore.Core.AssemblyInfoInputs.cache
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Core\obj\Debug\net8.0\LogisticCore.Core.AssemblyInfo.cs
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Core\obj\Debug\net8.0\LogisticCore.Core.csproj.CoreCompileInputs.cache
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Core\obj\Debug\net8.0\LogisticCore.Core.dll
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Core\obj\Debug\net8.0\refint\LogisticCore.Core.dll
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Core\obj\Debug\net8.0\LogisticCore.Core.pdb
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Core\obj\Debug\net8.0\ref\LogisticCore.Core.dll
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Core\obj\Debug\net8.0\LogisticCore.Core.csproj.AssemblyReference.cache

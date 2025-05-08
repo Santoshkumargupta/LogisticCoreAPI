@@ -1,0 +1,15 @@
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Infrastructure\bin\Debug\net8.0\LogisticCore.Infrastructure.deps.json
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Infrastructure\bin\Debug\net8.0\LogisticCore.Infrastructure.dll
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Infrastructure\bin\Debug\net8.0\LogisticCore.Infrastructure.pdb
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Infrastructure\obj\Debug\net8.0\LogisticCore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Infrastructure\obj\Debug\net8.0\LogisticCore.Infrastructure.AssemblyInfoInputs.cache
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Infrastructure\obj\Debug\net8.0\LogisticCore.Infrastructure.AssemblyInfo.cs
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Infrastructure\obj\Debug\net8.0\LogisticCore.Infrastructure.csproj.CoreCompileInputs.cache
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Infrastructure\obj\Debug\net8.0\LogisticCore.Infrastructure.dll
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Infrastructure\obj\Debug\net8.0\refint\LogisticCore.Infrastructure.dll
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Infrastructure\obj\Debug\net8.0\LogisticCore.Infrastructure.pdb
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Infrastructure\obj\Debug\net8.0\ref\LogisticCore.Infrastructure.dll
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Infrastructure\bin\Debug\net8.0\LogisticCore.Domain.dll
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Infrastructure\bin\Debug\net8.0\LogisticCore.Domain.pdb
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Infrastructure\obj\Debug\net8.0\LogisticCore.Infrastructure.csproj.AssemblyReference.cache
+E:\SearchableDesignOffice\LogisticCore\LogisticCore.Infrastructure\obj\Debug\net8.0\Logistic.44344D83.Up2Date

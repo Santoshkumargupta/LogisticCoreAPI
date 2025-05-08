@@ -1,0 +1,915 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SearchableDesignOffice\\LogisticCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.api\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|solutionrelative:logisticcore.api\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638C8243-69F5-4EA9-837F-23D513E7934D}|LogisticCore.Core\\LogisticCore.Core.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.core\\configurations\\globalerrorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638C8243-69F5-4EA9-837F-23D513E7934D}|LogisticCore.Core\\LogisticCore.Core.csproj|solutionrelative:logisticcore.core\\configurations\\globalerrorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.application\\service\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|solutionrelative:logisticcore.application\\service\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.api\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|solutionrelative:logisticcore.api\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE055925-0543-4F4E-94E9-C1FD58B88904}|LogisticCore.Domain\\LogisticCore.Domain.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.domain\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE055925-0543-4F4E-94E9-C1FD58B88904}|LogisticCore.Domain\\LogisticCore.Domain.csproj|solutionrelative:logisticcore.domain\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE055925-0543-4F4E-94E9-C1FD58B88904}|LogisticCore.Domain\\LogisticCore.Domain.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.domain\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE055925-0543-4F4E-94E9-C1FD58B88904}|LogisticCore.Domain\\LogisticCore.Domain.csproj|solutionrelative:logisticcore.domain\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.infrastructure\\dbaccess\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|solutionrelative:logisticcore.infrastructure\\dbaccess\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE055925-0543-4F4E-94E9-C1FD58B88904}|LogisticCore.Domain\\LogisticCore.Domain.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.domain\\model\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE055925-0543-4F4E-94E9-C1FD58B88904}|LogisticCore.Domain\\LogisticCore.Domain.csproj|solutionrelative:logisticcore.domain\\model\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE055925-0543-4F4E-94E9-C1FD58B88904}|LogisticCore.Domain\\LogisticCore.Domain.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.domain\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE055925-0543-4F4E-94E9-C1FD58B88904}|LogisticCore.Domain\\LogisticCore.Domain.csproj|solutionrelative:logisticcore.domain\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.application\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|solutionrelative:logisticcore.application\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.application\\customservices\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|solutionrelative:logisticcore.application\\customservices\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|solutionrelative:logisticcore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.infrastructure\\dbaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|solutionrelative:logisticcore.infrastructure\\dbaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|solutionrelative:logisticcore.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|solutionrelative:logisticcore.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.application\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|solutionrelative:logisticcore.application\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.application\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|solutionrelative:logisticcore.application\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.application\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|solutionrelative:logisticcore.application\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.application\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|solutionrelative:logisticcore.application\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|solutionrelative:logisticcore.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.application\\interface\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|solutionrelative:logisticcore.application\\interface\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.infrastructure\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|solutionrelative:logisticcore.infrastructure\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.infrastructure\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|solutionrelative:logisticcore.infrastructure\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.infrastructure\\respository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|solutionrelative:logisticcore.infrastructure\\respository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.infrastructure\\respository\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|solutionrelative:logisticcore.infrastructure\\respository\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.infrastructure\\respository\\refereshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|solutionrelative:logisticcore.infrastructure\\respository\\refereshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.infrastructure\\respository\\productrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|solutionrelative:logisticcore.infrastructure\\respository\\productrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.infrastructure\\respository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|solutionrelative:logisticcore.infrastructure\\respository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.infrastructure\\respository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|solutionrelative:logisticcore.infrastructure\\respository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.infrastructure\\interface\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|solutionrelative:logisticcore.infrastructure\\interface\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.infrastructure\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|solutionrelative:logisticcore.infrastructure\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.infrastructure\\interface\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|solutionrelative:logisticcore.infrastructure\\interface\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.infrastructure\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|solutionrelative:logisticcore.infrastructure\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.infrastructure\\interface\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|solutionrelative:logisticcore.infrastructure\\interface\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.application\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|solutionrelative:logisticcore.application\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.application\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|solutionrelative:logisticcore.application\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.application\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|solutionrelative:logisticcore.application\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE055925-0543-4F4E-94E9-C1FD58B88904}|LogisticCore.Domain\\LogisticCore.Domain.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.domain\\model\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE055925-0543-4F4E-94E9-C1FD58B88904}|LogisticCore.Domain\\LogisticCore.Domain.csproj|solutionrelative:logisticcore.domain\\model\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|solutionrelative:logisticcore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE055925-0543-4F4E-94E9-C1FD58B88904}|LogisticCore.Domain\\LogisticCore.Domain.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE055925-0543-4F4E-94E9-C1FD58B88904}|LogisticCore.Domain\\LogisticCore.Domain.csproj|solutionrelative:logisticcore.domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.infrastructure\\context\\logisticcorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757AB972-BE49-4A21-B1F6-5E8E873F88D6}|LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj|solutionrelative:logisticcore.infrastructure\\context\\logisticcorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.application\\mapper\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|solutionrelative:logisticcore.application\\mapper\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|solutionrelative:logisticcore.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.api\\services\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|solutionrelative:logisticcore.api\\services\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.api\\sqlscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|solutionrelative:logisticcore.api\\sqlscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.api\\logisticcore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|solutionrelative:logisticcore.api\\logisticcore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.api\\services\\addrequiredheaderparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|solutionrelative:logisticcore.api\\services\\addrequiredheaderparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A76C72-0798-400D-8A35-2AE4211483F1}|LogisticCore.API\\LogisticCore.API.csproj|solutionrelative:logisticcore.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638C8243-69F5-4EA9-837F-23D513E7934D}|LogisticCore.Core\\LogisticCore.Core.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.core\\model\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638C8243-69F5-4EA9-837F-23D513E7934D}|LogisticCore.Core\\LogisticCore.Core.csproj|solutionrelative:logisticcore.core\\model\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638C8243-69F5-4EA9-837F-23D513E7934D}|LogisticCore.Core\\LogisticCore.Core.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.core\\model\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638C8243-69F5-4EA9-837F-23D513E7934D}|LogisticCore.Core\\LogisticCore.Core.csproj|solutionrelative:logisticcore.core\\model\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.application\\interface\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|solutionrelative:logisticcore.application\\interface\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.application\\logisticcore.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|solutionrelative:logisticcore.application\\logisticcore.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.application\\service\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|solutionrelative:logisticcore.application\\service\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|e:\\searchabledesignoffice\\logisticcore\\logisticcore.application\\dto\\filevalidationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC66EB07-9AC9-4B6D-9F8B-44766F2B95AF}|LogisticCore.Application\\LogisticCore.Application.csproj|solutionrelative:logisticcore.application\\dto\\filevalidationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 94,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LogisticCore.API\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LogisticCore.API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:55:37.307Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Domain\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Domain\\Model\\Product.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Domain\\Model\\Product.cs",
+              "RelativeToolTip": "LogisticCore.Domain\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:21:47.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Domain\\Model\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Domain\\Model\\OrderDetails.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Domain\\Model\\OrderDetails.cs",
+              "RelativeToolTip": "LogisticCore.Domain\\Model\\OrderDetails.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:24:02.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "LogisticCore.API\\Controllers\\SupplierController.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "LogisticCore.API\\Controllers\\SupplierController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAlwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:45:43.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Service\\SupplierService.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Application\\Service\\SupplierService.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Service\\SupplierService.cs",
+              "RelativeToolTip": "LogisticCore.Application\\Service\\SupplierService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAApwBwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T03:41:11.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "LogisticCore.API\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "LogisticCore.API\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA8wBkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:47:39.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Core\\Configurations\\GlobalErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Core\\Configurations\\GlobalErrorHandlingMiddleware.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Core\\Configurations\\GlobalErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "LogisticCore.Core\\Configurations\\GlobalErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAADgv0cAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:56:52.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Domain\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Domain\\Model\\Order.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Domain\\Model\\Order.cs",
+              "RelativeToolTip": "LogisticCore.Domain\\Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:22:50.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Domain\\Model\\Supplier.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Domain\\Model\\Supplier.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Domain\\Model\\Supplier.cs",
+              "RelativeToolTip": "LogisticCore.Domain\\Model\\Supplier.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:20:43.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\DbAccess\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Infrastructure\\DbAccess\\GenericRepository.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\DbAccess\\GenericRepository.cs",
+              "RelativeToolTip": "LogisticCore.Infrastructure\\DbAccess\\GenericRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAtwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T03:54:35.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Service\\AccountService.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Application\\Service\\AccountService.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Service\\AccountService.cs",
+              "RelativeToolTip": "LogisticCore.Application\\Service\\AccountService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwC0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:43:03.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistrationService.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\CustomServices\\RegistrationService.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Application\\CustomServices\\RegistrationService.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\CustomServices\\RegistrationService.cs",
+              "RelativeToolTip": "LogisticCore.Application\\CustomServices\\RegistrationService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:44:46.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\Program.cs",
+              "RelativeDocumentMoniker": "LogisticCore.API\\Program.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\Program.cs",
+              "RelativeToolTip": "LogisticCore.API\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAhwDQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:45:49.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\DbAccess\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Infrastructure\\DbAccess\\UnitOfWork.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\DbAccess\\UnitOfWork.cs",
+              "RelativeToolTip": "LogisticCore.Infrastructure\\DbAccess\\UnitOfWork.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAUwHEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:56:27.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "LogisticCore.API\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "LogisticCore.API\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:42:08.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISupplierService.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Interface\\ISupplierService.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Application\\Interface\\ISupplierService.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Interface\\ISupplierService.cs",
+              "RelativeToolTip": "LogisticCore.Application\\Interface\\ISupplierService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:50:32.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Application\\Service\\ProductService.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Service\\ProductService.cs",
+              "RelativeToolTip": "LogisticCore.Application\\Service\\ProductService.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:33:20.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Interface\\IProductService.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Application\\Interface\\IProductService.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Interface\\IProductService.cs",
+              "RelativeToolTip": "LogisticCore.Application\\Interface\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:35:59.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Service\\OrderService.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Application\\Service\\OrderService.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Service\\OrderService.cs",
+              "RelativeToolTip": "LogisticCore.Application\\Service\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:38:19.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Interface\\IOrderService.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Application\\Interface\\IOrderService.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Interface\\IOrderService.cs",
+              "RelativeToolTip": "LogisticCore.Application\\Interface\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:41:09.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "LogisticCore.API\\Controllers\\BaseController.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "LogisticCore.API\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:48:22.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RefereshTokenRepository.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Respository\\RefereshTokenRepository.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Infrastructure\\Respository\\RefereshTokenRepository.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Respository\\RefereshTokenRepository.cs",
+              "RelativeToolTip": "LogisticCore.Infrastructure\\Respository\\RefereshTokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:05:10.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductRepositroy.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Respository\\ProductRepositroy.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Infrastructure\\Respository\\ProductRepositroy.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Respository\\ProductRepositroy.cs",
+              "RelativeToolTip": "LogisticCore.Infrastructure\\Respository\\ProductRepositroy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:11:25.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Respository\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Infrastructure\\Respository\\SupplierRepository.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Respository\\SupplierRepository.cs",
+              "RelativeToolTip": "LogisticCore.Infrastructure\\Respository\\SupplierRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:04:57.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Infrastructure\\Interface\\IRepository.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Interface\\IRepository.cs",
+              "RelativeToolTip": "LogisticCore.Infrastructure\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:06:39.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Respository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Infrastructure\\Respository\\UserRepository.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Respository\\UserRepository.cs",
+              "RelativeToolTip": "LogisticCore.Infrastructure\\Respository\\UserRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA8wBIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:12:48.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Interface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Infrastructure\\Interface\\IUnitOfWork.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Interface\\IUnitOfWork.cs",
+              "RelativeToolTip": "LogisticCore.Infrastructure\\Interface\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:55:41.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Respository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Infrastructure\\Respository\\OrderRepository.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Respository\\OrderRepository.cs",
+              "RelativeToolTip": "LogisticCore.Infrastructure\\Respository\\OrderRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:12:45.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Respository\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Infrastructure\\Respository\\OrderDetailRepository.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Respository\\OrderDetailRepository.cs",
+              "RelativeToolTip": "LogisticCore.Infrastructure\\Respository\\OrderDetailRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:16:46.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Interface\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Infrastructure\\Interface\\IOrderDetailRepository.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Interface\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "LogisticCore.Infrastructure\\Interface\\IOrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:09:44.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Interface\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Infrastructure\\Interface\\IOrderRepository.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Interface\\IOrderRepository.cs",
+              "RelativeToolTip": "LogisticCore.Infrastructure\\Interface\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:08:46.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Interface\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Infrastructure\\Interface\\IProductRepository.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Interface\\IProductRepository.cs",
+              "RelativeToolTip": "LogisticCore.Infrastructure\\Interface\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:08:04.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IRefreshTokenRepository.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Interface\\IRefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Infrastructure\\Interface\\IRefreshTokenRepository.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Interface\\IRefreshTokenRepository.cs",
+              "RelativeToolTip": "LogisticCore.Infrastructure\\Interface\\IRefreshTokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:06:44.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ISupplierRepository.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Interface\\ISupplierRepository.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Infrastructure\\Interface\\ISupplierRepository.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Interface\\ISupplierRepository.cs",
+              "RelativeToolTip": "LogisticCore.Infrastructure\\Interface\\ISupplierRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:06:30.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Domain\\Model\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Domain\\Model\\RefreshToken.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Domain\\Model\\RefreshToken.cs",
+              "RelativeToolTip": "LogisticCore.Domain\\Model\\RefreshToken.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:31:45.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Application\\Service\\UserService.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Service\\UserService.cs",
+              "RelativeToolTip": "LogisticCore.Application\\Service\\UserService.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAuwGgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:41:03.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Application\\Interface\\IUserService.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Interface\\IUserService.cs",
+              "RelativeToolTip": "LogisticCore.Application\\Interface\\IUserService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:16:16.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Application\\Service\\TokenService.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Service\\TokenService.cs",
+              "RelativeToolTip": "LogisticCore.Application\\Service\\TokenService.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:49:53.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\appsettings.json",
+              "RelativeDocumentMoniker": "LogisticCore.API\\appsettings.json",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\appsettings.json",
+              "RelativeToolTip": "LogisticCore.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T11:01:59.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LogisticCoreContext.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Context\\LogisticCoreContext.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Infrastructure\\Context\\LogisticCoreContext.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\Context\\LogisticCoreContext.cs",
+              "RelativeToolTip": "LogisticCore.Infrastructure\\Context\\LogisticCoreContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:51:04.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Domain\\Model\\User.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Domain\\Model\\User.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Domain\\Model\\User.cs",
+              "RelativeToolTip": "LogisticCore.Domain\\Model\\User.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:32:24.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Mapper\\UserMapper.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Application\\Mapper\\UserMapper.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Mapper\\UserMapper.cs",
+              "RelativeToolTip": "LogisticCore.Application\\Mapper\\UserMapper.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:43:25.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Application\\DTO\\UserDTO.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "LogisticCore.Application\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:42:18.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AuthorizationService.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\Services\\AuthorizationService.cs",
+              "RelativeDocumentMoniker": "LogisticCore.API\\Services\\AuthorizationService.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\Services\\AuthorizationService.cs",
+              "RelativeToolTip": "LogisticCore.API\\Services\\AuthorizationService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:59:07.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SQLScript.sql",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\SQLScript.sql",
+              "RelativeDocumentMoniker": "LogisticCore.API\\SQLScript.sql",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\SQLScript.sql",
+              "RelativeToolTip": "LogisticCore.API\\SQLScript.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-30T09:42:56.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LogisticCore.API.csproj",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\LogisticCore.API.csproj",
+              "RelativeDocumentMoniker": "LogisticCore.API\\LogisticCore.API.csproj",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\LogisticCore.API.csproj",
+              "RelativeToolTip": "LogisticCore.API\\LogisticCore.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T08:57:27.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LogisticCore.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LogisticCore.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:56:53.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AddRequiredHeaderParameter.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\Services\\AddRequiredHeaderParameter.cs",
+              "RelativeDocumentMoniker": "LogisticCore.API\\Services\\AddRequiredHeaderParameter.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.API\\Services\\AddRequiredHeaderParameter.cs",
+              "RelativeToolTip": "LogisticCore.API\\Services\\AddRequiredHeaderParameter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:58:25.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AuthenticateResponse.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Core\\Model\\AuthenticateResponse.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Core\\Model\\AuthenticateResponse.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Core\\Model\\AuthenticateResponse.cs",
+              "RelativeToolTip": "LogisticCore.Core\\Model\\AuthenticateResponse.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:50:34.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AuthenticateRequest.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Core\\Model\\AuthenticateRequest.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Core\\Model\\AuthenticateRequest.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Core\\Model\\AuthenticateRequest.cs",
+              "RelativeToolTip": "LogisticCore.Core\\Model\\AuthenticateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:45:50.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Interface\\IAccountService.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Application\\Interface\\IAccountService.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Interface\\IAccountService.cs",
+              "RelativeToolTip": "LogisticCore.Application\\Interface\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:44:36.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FileValidationDTO.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\DTO\\FileValidationDTO.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Application\\DTO\\FileValidationDTO.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\DTO\\FileValidationDTO.cs",
+              "RelativeToolTip": "LogisticCore.Application\\DTO\\FileValidationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:40:08.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LogisticCore.Application.csproj",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\LogisticCore.Application.csproj",
+              "RelativeDocumentMoniker": "LogisticCore.Application\\LogisticCore.Application.csproj",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\LogisticCore.Application.csproj",
+              "RelativeToolTip": "LogisticCore.Application\\LogisticCore.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T11:39:38.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Service\\ValidationService.cs",
+              "RelativeDocumentMoniker": "LogisticCore.Application\\Service\\ValidationService.cs",
+              "ToolTip": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\Service\\ValidationService.cs",
+              "RelativeToolTip": "LogisticCore.Application\\Service\\ValidationService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:37:46.572Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 62,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
