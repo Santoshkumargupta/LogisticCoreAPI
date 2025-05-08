@@ -2736,11 +2736,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj",
+      "projectUniqueName": "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj",
       "projectName": "LogisticCore.Infrastructure",
-      "projectPath": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj",
+      "projectPath": "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
-      "outputPath": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\obj\\",
+      "outputPath": "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\santo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2757,8 +2757,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Domain\\LogisticCore.Domain.csproj": {
-              "projectPath": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Domain\\LogisticCore.Domain.csproj"
+            "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Domain\\LogisticCore.Domain.csproj": {
+              "projectPath": "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Domain\\LogisticCore.Domain.csproj"
             }
           }
         }

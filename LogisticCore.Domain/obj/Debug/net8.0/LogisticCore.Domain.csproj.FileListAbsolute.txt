@@ -9,3 +9,15 @@ E:\SearchableDesignOffice\LogisticCore\LogisticCore.Domain\obj\Debug\net8.0\Logi
 E:\SearchableDesignOffice\LogisticCore\LogisticCore.Domain\obj\Debug\net8.0\refint\LogisticCore.Domain.dll
 E:\SearchableDesignOffice\LogisticCore\LogisticCore.Domain\obj\Debug\net8.0\LogisticCore.Domain.pdb
 E:\SearchableDesignOffice\LogisticCore\LogisticCore.Domain\obj\Debug\net8.0\ref\LogisticCore.Domain.dll
+E:\SearchableDesignOffice\LogisticCoreAPI\LogisticCore.Domain\bin\Debug\net8.0\LogisticCore.Domain.deps.json
+E:\SearchableDesignOffice\LogisticCoreAPI\LogisticCore.Domain\bin\Debug\net8.0\LogisticCore.Domain.dll
+E:\SearchableDesignOffice\LogisticCoreAPI\LogisticCore.Domain\bin\Debug\net8.0\LogisticCore.Domain.pdb
+E:\SearchableDesignOffice\LogisticCoreAPI\LogisticCore.Domain\obj\Debug\net8.0\LogisticCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\SearchableDesignOffice\LogisticCoreAPI\LogisticCore.Domain\obj\Debug\net8.0\LogisticCore.Domain.AssemblyInfoInputs.cache
+E:\SearchableDesignOffice\LogisticCoreAPI\LogisticCore.Domain\obj\Debug\net8.0\LogisticCore.Domain.AssemblyInfo.cs
+E:\SearchableDesignOffice\LogisticCoreAPI\LogisticCore.Domain\obj\Debug\net8.0\LogisticCore.Domain.csproj.CoreCompileInputs.cache
+E:\SearchableDesignOffice\LogisticCoreAPI\LogisticCore.Domain\obj\Debug\net8.0\LogisticCore.Domain.sourcelink.json
+E:\SearchableDesignOffice\LogisticCoreAPI\LogisticCore.Domain\obj\Debug\net8.0\LogisticCore.Domain.dll
+E:\SearchableDesignOffice\LogisticCoreAPI\LogisticCore.Domain\obj\Debug\net8.0\refint\LogisticCore.Domain.dll
+E:\SearchableDesignOffice\LogisticCoreAPI\LogisticCore.Domain\obj\Debug\net8.0\LogisticCore.Domain.pdb
+E:\SearchableDesignOffice\LogisticCoreAPI\LogisticCore.Domain\obj\Debug\net8.0\ref\LogisticCore.Domain.dll

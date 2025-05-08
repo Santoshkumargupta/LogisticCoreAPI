@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogisticCore.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b73a413e00ac4c50b8ba8c1d660e7e020e0b9fe9")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogisticCore.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogisticCore.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

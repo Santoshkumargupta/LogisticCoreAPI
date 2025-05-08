@@ -2658,11 +2658,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\LogisticCore.Application.csproj",
+      "projectUniqueName": "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Application\\LogisticCore.Application.csproj",
       "projectName": "LogisticCore.Application",
-      "projectPath": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\LogisticCore.Application.csproj",
+      "projectPath": "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Application\\LogisticCore.Application.csproj",
       "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
-      "outputPath": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Application\\obj\\",
+      "outputPath": "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\santo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2679,11 +2679,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Core\\LogisticCore.Core.csproj": {
-              "projectPath": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Core\\LogisticCore.Core.csproj"
+            "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Core\\LogisticCore.Core.csproj": {
+              "projectPath": "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Core\\LogisticCore.Core.csproj"
             },
-            "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj": {
-              "projectPath": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj"
+            "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj": {
+              "projectPath": "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj"
             }
           }
         }

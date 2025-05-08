@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FeAjegzS0iPJzrm6/AfVg4XK6AlL2ZkXcosFlEtu5Q5UIlrR+T6IQy+OI/HPt4UUJLA/Csl/L8yX5fGSLh/dvQ==",
+  "dgSpecHash": "Z7Pp+WFAwpwZf1EteLlXPfsfgnlst2WhKl7XGsRTE9NlWcctUsLWMTf6607I5oHWwS1WGQd0SuK2Hc0egHkVRg==",
   "success": true,
-  "projectFilePath": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Core\\LogisticCore.Core.csproj",
+  "projectFilePath": "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Core\\LogisticCore.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santo\\.nuget\\packages\\log4net\\3.0.4\\log4net.3.0.4.nupkg.sha512",
     "C:\\Users\\santo\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",

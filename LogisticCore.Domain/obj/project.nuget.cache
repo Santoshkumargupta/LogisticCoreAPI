@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H1r0us/g5qMVjZ+ZoyTwUkPWqccYK/ECjRNFjgqD1PwTbKdOQr7HHgxKpQP0BE4xV8EZcMow0hOGI93Q8ElW/Q==",
+  "dgSpecHash": "S8ba+N8aF7fz/P9wjQMPLcCxI1aM4viRF3T9uDkHMpAvHDdCTP2qZn/oASfVY4wm89j4PVYsYR7s94+Mbe3rFw==",
   "success": true,
-  "projectFilePath": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Domain\\LogisticCore.Domain.csproj",
+  "projectFilePath": "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Domain\\LogisticCore.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Core\\LogisticCore.Core.csproj": {}
+    "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Core\\LogisticCore.Core.csproj": {}
   },
   "projects": {
-    "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Core\\LogisticCore.Core.csproj": {
+    "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Core\\LogisticCore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Core\\LogisticCore.Core.csproj",
+        "projectUniqueName": "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Core\\LogisticCore.Core.csproj",
         "projectName": "LogisticCore.Core",
-        "projectPath": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Core\\LogisticCore.Core.csproj",
+        "projectPath": "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Core\\LogisticCore.Core.csproj",
         "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
-        "outputPath": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Core\\obj\\",
+        "outputPath": "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Iss9UEBAWSoOt2UJ0CSXbYsDxX0CbKtIOPhGvV6n0x7LAI4g+mIvO+N77o4WleURVKBXkrgIBWrJ4DHlqI2qsA==",
+  "dgSpecHash": "aoHZht26GU7FZ0m4hzZzL0znWzNNP0TqoSPZt5qbl0jYlWbquPxBYS+dI88gtb8Z2wduuqZt5hIS+TG6quQ5oA==",
   "success": true,
-  "projectFilePath": "E:\\SearchableDesignOffice\\LogisticCore\\LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj",
+  "projectFilePath": "E:\\SearchableDesignOffice\\LogisticCoreAPI\\LogisticCore.Infrastructure\\LogisticCore.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\santo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
